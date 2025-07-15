@@ -1,4 +1,4 @@
-# 🌐 GCS_Antasena - Ground Control System LoRa DHT22
+# 🌐 GCS_Antasena - Ground Control System LoRa 
 
 Repositori ini berisi dua komponen utama dalam sistem Ground Control Station (GCS) berbasis komunikasi **LoRa** untuk pemantauan suhu dan kelembaban menggunakan sensor **DHT22**. Sistem ini menggunakan:
 
